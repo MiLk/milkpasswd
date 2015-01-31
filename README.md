@@ -1,7 +1,7 @@
 milkpasswd
 ==========
 
-[![Build Status](https://travis-ci.org/milk/milkpasswd.png)](https://travis-ci.org/milk/milkpasswd)
+[![Build Status](https://travis-ci.org/MiLk/milkpasswd.png)](https://travis-ci.org/milk/milkpasswd)
 [![GoDoc](https://godoc.org/github.com/milk/milkpasswd?status.svg)](http://godoc.org/github.com/milk/milkpasswd)
 
 `milkpasswd` is a tool I wrote to learn [Go](https://golang.org/).
